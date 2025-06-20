@@ -46,16 +46,6 @@ A simple 2D space shooter game built with Swift and SpriteKit.
 
 ---
 
-## 📁 Folder Structure
-
-SpaceGame/
-├── App/ ← Entry point (AppDelegate, ViewController)
-├── Scene/ ← MainMenuScene, GameScene
-├── Resources/ ← Assets & enemyFire.sks
-└── README.md
-
----
-
 ## ✍️ Author
 
 Noah – iOS Project – October 12, 2024
