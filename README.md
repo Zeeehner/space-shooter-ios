@@ -24,11 +24,12 @@ A simple 2D space shooter game built with Swift and SpriteKit.
 
 ## 📸 Screenshots
 
-### Start Screen
-![Start Screen](img/start_screen.png)
+<p align="center">
+  <img src="img/start_screen.png" alt="Start Screen" width="250"/>
+  <img src="img/gameplay_scene.png" alt="Gameplay Scene" width="250"/>
+</p>
 
-### Gameplay Scene
-![Gameplay Scene](img/gameplay_scene.png)
+<p align="center"><i>Start screen and gameplay demo from iOS simulator</i></p>
 
 ---
 ## 🔄 Roadmap
