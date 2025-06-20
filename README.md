@@ -1,0 +1,60 @@
+# Space Shooter 🚀
+
+A simple 2D space shooter game built with Swift and SpriteKit.
+
+> ⚠️ This project is in early development.  
+> So far, it includes:
+> - A neon-style start screen with a PLAY button  
+> - A playable endless shooter screen  
+> - Player spaceship with touch movement  
+> - Bullet firing with working collision (enemy hit = explosion)  
+> - Enemies spawn randomly and move downward  
+> - Scrolling background effect
+
+❌ No score, no health, and no player-enemy collision yet.
+
+---
+
+## ▶️ Getting Started
+
+1. Open `SpaceGame.xcodeproj` in Xcode  
+2. Build & Run on a simulator or physical device
+
+---
+
+## 📸 Screenshots
+
+### Start Screen
+![Start Screen](start_screen.png)
+
+### Gameplay Scene
+![Gameplay Scene](gameplay_scene.png)
+
+---
+## 🔄 Roadmap
+
+- [x] Start screen  
+- [x] Enemy spawn & movement  
+- [x] Bullet firing  
+- [x] Bullet-enemy collision  
+- [ ] Spaceship-enemy collision  
+- [ ] Score tracking  
+- [ ] Game over screen  
+- [ ] Enemy bullets  
+- [ ] Sound effects / music  
+
+---
+
+## 📁 Folder Structure
+
+SpaceGame/
+├── App/ ← Entry point (AppDelegate, ViewController)
+├── Scene/ ← MainMenuScene, GameScene
+├── Resources/ ← Assets & enemyFire.sks
+└── README.md
+
+---
+
+## ✍️ Author
+
+Noah – iOS Project – October 12, 2024
